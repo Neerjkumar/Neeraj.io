@@ -14,3 +14,7 @@ If you’ve ever tried to discover the right candidate in a pool full of unquali
 
 2. Project Description*:
 Portfolio (we can also say candidate resume) that contain all details about the candidates. I divided all the skills, project, experience ,.... etc to different-different section. It is very helpful for the recruiters then can see all the details about the candidates. In a single profile, using this strategy we can save the recruiters time and stress.
+
+
+3. Copy the link is given below and paste it to any browser to see the project:
+Link: neeraj529kumar.netlify.app
